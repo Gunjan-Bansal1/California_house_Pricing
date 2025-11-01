@@ -7,6 +7,7 @@
 3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-command-Line)
 4. [HerokuAccount](https://heroku.com)
 
+
 Create  a new Environment
 
 ......
@@ -18,3 +19,5 @@ myenv\Scripts\activate
 conda create -p venv python == 3.13.3 -y
 
 ......
+
+📓 **Jupyter Notebook:** [View the Notebook on GitHub](https://github.com/Gunjan-Bansal1/California_house_Pricing/blob/main/California_Housing.ipynb)
