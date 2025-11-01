@@ -20,4 +20,4 @@ conda create -p venv python == 3.13.3 -y
 
 ......
 
-📓 **Jupyter Notebook:** [View the Notebook on GitHub](https://github.com/Gunjan-Bansal1/California_house_Pricing/blob/main/California_Housing.ipynb)
+📓 **Jupyter Notebook:** [View the Notebook](C:\Users\bgunj\Desktop\California ML PROJECT\California_house_Pricing)
