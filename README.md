@@ -20,4 +20,8 @@ conda create -p venv python == 3.13.3 -y
 
 ......
 
+### COLAB NOTEBOOK
+https://drive.google.com/file/d/1SqcewQeYMvr9jjf5O9E5jbtqcVud0ugm/view?usp=sharing
+
+
 
